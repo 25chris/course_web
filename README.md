@@ -1,5 +1,3 @@
-Here's a `README.md` file for your Flutter Courses Website repository, incorporating your provided data and additional useful information.
-
 ```markdown
 # Flutter Courses Website by 25Chris
 
