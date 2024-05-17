@@ -67,7 +67,7 @@ Once the project is up and running, you can explore the various courses availabl
 
 ### Course Details
 
-![Course Details Screenshot]((https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-03.webp))
+![Course Details Screenshot](https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-03.webp)
 
 ## Courses Offered
 
