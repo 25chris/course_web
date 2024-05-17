@@ -1,3 +1,7 @@
+### Homepage
+
+![Homepage Screenshot](https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-01.webp)
+
 ```markdown
 # Flutter Courses Website by 25Chris
 
@@ -56,10 +60,6 @@ To get a local copy up and running, follow these simple steps.
 ## Usage
 
 Once the project is up and running, you can explore the various courses available. Here's a brief overview of the main pages:
-
-### Homepage
-
-![Homepage Screenshot](https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-01.webp)
 
 ### Courses Page
 
