@@ -59,15 +59,15 @@ Once the project is up and running, you can explore the various courses availabl
 
 ### Homepage
 
-![Homepage Screenshot](path/to/homepage-screenshot.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-01.webp)
 
 ### Courses Page
 
-![Courses Page Screenshot](path/to/courses-page-screenshot.png)
+![Courses Page Screenshot](https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-02.webp)
 
 ### Course Details
 
-![Course Details Screenshot](path/to/course-details-screenshot.png)
+![Course Details Screenshot]((https://raw.githubusercontent.com/25chris/course_web/main/courses_page_1-03.webp))
 
 ## Courses Offered
 
